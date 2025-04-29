@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/SourabhOrg/778425af-bdff-4f68-b7e2-93d3a0011280/ad607a4c-8dbd-472d-8f60-d7ba940b7473/_apis/work/boardbadge/97ab4a6d-03fe-459b-b81d-fa4b537e160f)](https://dev.azure.com/SourabhOrg/778425af-bdff-4f68-b7e2-93d3a0011280/_boards/board/t/ad607a4c-8dbd-472d-8f60-d7ba940b7473/Microsoft.RequirementCategory)
 # react-msal
